@@ -1,0 +1,6 @@
+{
+  "name": "simservicev1",
+  "version": "0.0.1",
+  "description": "A SimService Jancy resolver plugin",
+  "main": "src/index.js"
+}
